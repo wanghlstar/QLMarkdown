@@ -1,0 +1,43 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Build
+        run: |
+          xcodebuild -project QLMarkdown.xcodeproj -scheme QLMarkdown \
+            -configuration Release -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO \
+            build
+
+      - name: Ad-hoc sign
+        run: |
+          APP="build/Build/Products/Release/QLMarkdown.app"
+          codesign --force --deep --sign - "$APP"
+          codesign --force --sign - \
+            --entitlements "QLExtension/QLExtension.entitlements" \
+            "$APP/Contents/PlugIns/Markdown QL Extension.appex"
+          codesign --force --sign - \
+            --entitlements "Shortcut Extension/Shortcut_Extension.entitlements" \
+            "$APP/Contents/Extensions/QLMarkdown Shortcut Extension.appex"
+          codesign --force --sign - \
+            --entitlements "QLMarkdown/QLMarkdown.entitlements" \
+            "$APP"
+          codesign --verify --deep --strict "$APP"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: QLMarkdown-zh-Hans
+          path: build/Build/Products/Release/QLMarkdown.app
+          if-no-files-found: error

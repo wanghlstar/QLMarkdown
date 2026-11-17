@@ -8,6 +8,12 @@
             "state" : "translated",
             "value" : "Ammonizioni"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示块"
+          }
         }
       }
     },
@@ -23,6 +29,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "tutti i file"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有文件"
           }
         }
       }
@@ -40,6 +52,12 @@
             "state" : "translated",
             "value" : "Codice HTML in linea (non sicuro)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许内联 HTML（不安全）"
+          }
         }
       }
     },
@@ -55,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Link automaticatici"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动链接"
           }
         }
       }
@@ -72,6 +96,12 @@
             "state" : "translated",
             "value" : "Converti ${inputFile} in un file HTML."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 ${inputFile} 转换为 HTML 文件。"
+          }
         }
       }
     },
@@ -88,6 +118,12 @@
             "state" : "translated",
             "value" : "Converte un file Markdown in formato HTML."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 Markdown 文件转换为 HTML。"
+          }
         }
       }
     },
@@ -97,6 +133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Definizioni"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "定义列表"
           }
         }
       }
@@ -114,6 +156,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sviluppato da SBAREX con ❤️ | <a href=\"%@\">%@</a>"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "由 SBAREX 用 ❤️ 开发 | <a href=\"%1$@\">%2$@</a>"
           }
         }
       }
@@ -133,6 +181,12 @@
             "state" : "translated",
             "value" : "Diagrammi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图表扩展"
+          }
         }
       }
     },
@@ -148,6 +202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Incorpora immagini locali"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内嵌本地图片"
           }
         }
       }
@@ -165,6 +225,12 @@
             "state" : "translated",
             "value" : "Opzioni per le Emoji"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji 选项状态"
+          }
         }
       }
     },
@@ -180,6 +246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sostituzione delle Emoji"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji 替换"
           }
         }
       }
@@ -197,6 +269,12 @@
             "state" : "translated",
             "value" : "Note pié di pagina"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚注"
+          }
         }
       }
     },
@@ -212,6 +290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Formatta ${inputFile} in codice HTML (${generateFullCode})."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 ${inputFile} 格式化为 HTML 代码（${generateFullCode}）。"
           }
         }
       }
@@ -229,6 +313,12 @@
             "state" : "translated",
             "value" : "Formatta un file markdown in codice HTML"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 Markdown 文件格式化为 HTML"
+          }
         }
       }
     },
@@ -245,6 +335,12 @@
             "state" : "translated",
             "value" : "Genera il codice HTML completo oppure solo il frammento del corpo."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成完整 HTML 页面或仅正文片段。"
+          }
         }
       }
     },
@@ -254,6 +350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avvisi GitHub"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub 警告块"
           }
         }
       }
@@ -271,6 +373,12 @@
             "state" : "translated",
             "value" : "Menzioni GitHub"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub 提及"
+          }
         }
       }
     },
@@ -287,6 +395,12 @@
             "state" : "translated",
             "value" : "Forza a capo"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "硬换行"
+          }
         }
       }
     },
@@ -298,6 +412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hashtag"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "话题标签"
           }
         }
       }
@@ -315,6 +435,12 @@
             "state" : "translated",
             "value" : "Collegamenti ai titoli"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标题锚点"
+          }
         }
       }
     },
@@ -330,6 +456,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Formatta contenuto evidenziato"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮"
           }
         }
       }
@@ -348,6 +480,12 @@
             "state" : "translated",
             "value" : "Evidenziatore"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮扩展"
+          }
         }
       }
     },
@@ -363,6 +501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Generazione del codice HTML"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTML 代码生成"
           }
         }
       }
@@ -380,6 +524,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se trovi utile questa applicazione e ne hai la possibilità, valuta di <a href=\"https://buymeacoffee.com/sbarex\"><b>buying me a coffee!</b></a>"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果它对你有用，且你有余力，欢迎<a href=\"https://buymeacoffee.com/sbarex\"><b>请我喝杯咖啡！</b></a>"
           }
         }
       }
@@ -403,6 +553,12 @@
             "state" : "translated",
             "value" : "File Markdown"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown 文件"
+          }
         }
       }
     },
@@ -414,6 +570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opzioni per la libreria JS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "库选项状态"
           }
         }
       }
@@ -431,6 +593,12 @@
             "state" : "translated",
             "value" : "libreria js dal web"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从网络链接"
+          }
         }
       }
     },
@@ -442,6 +610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "incorporato"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地内嵌"
           }
         }
       }
@@ -460,6 +634,12 @@
             "state" : "translated",
             "value" : "Converti file Markdown"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown 转换"
+          }
         }
       }
     },
@@ -475,6 +655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Formatta file Markdown"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown 格式化"
           }
         }
       }
@@ -492,6 +678,12 @@
             "state" : "translated",
             "value" : "Espressioni matematiche"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学表达式"
+          }
         }
       }
     },
@@ -507,6 +699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Espressioni matematiche"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学扩展"
           }
         }
       }
@@ -524,6 +722,12 @@
             "state" : "translated",
             "value" : "No interruzioni di riga"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无软换行"
+          }
         }
       }
     },
@@ -539,6 +743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "disattivato"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关"
           }
         }
       }
@@ -556,6 +766,12 @@
             "state" : "translated",
             "value" : "attivato"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开"
+          }
         }
       }
     },
@@ -572,6 +788,12 @@
             "state" : "translated",
             "value" : "solo per i file .rmd e .qmd"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅适用于 .rmd 和 .qmd 文件"
+          }
         }
       }
     },
@@ -587,6 +809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opzione"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选项状态"
           }
         }
       }
@@ -610,6 +838,12 @@
             "state" : "translated",
             "value" : "codice completo"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完整代码"
+          }
         }
       }
     },
@@ -625,6 +859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "predefinito"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预设"
           }
         }
       }
@@ -642,6 +882,12 @@
             "state" : "translated",
             "value" : "riconosci doppia ~"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "识别双波浪号 ~"
+          }
         }
       }
     },
@@ -657,6 +903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "riconosci singola ~"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "识别单波浪号 ~"
           }
         }
       }
@@ -674,6 +926,12 @@
             "state" : "translated",
             "value" : "Formatta come codice sorgente"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作为源代码渲染"
+          }
         }
       }
     },
@@ -689,6 +947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sostituisci usando il font"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用字体替换"
           }
         }
       }
@@ -706,6 +970,12 @@
             "state" : "translated",
             "value" : "sostituisci con immagini"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用图片替换"
+          }
         }
       }
     },
@@ -721,6 +991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Informazioni di debug"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示调试信息"
           }
         }
       }
@@ -738,6 +1014,12 @@
             "state" : "translated",
             "value" : "Virgolette tipografiche"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能引号"
+          }
         }
       }
     },
@@ -753,6 +1035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "frammento"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "片段"
           }
         }
       }
@@ -770,6 +1058,12 @@
             "state" : "translated",
             "value" : "Testo barrato"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线"
+          }
         }
       }
     },
@@ -786,6 +1080,12 @@
             "state" : "translated",
             "value" : "Testo barrato"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线扩展"
+          }
         }
       }
     },
@@ -801,6 +1101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opzioni per il testo barrato"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线选项状态"
           }
         }
       }
@@ -820,6 +1126,12 @@
             "state" : "translated",
             "value" : "Apice/Pedice"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下标/上标"
+          }
         }
       }
     },
@@ -837,6 +1149,12 @@
             "state" : "translated",
             "value" : "Evidenzia sintassi del codice"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语法高亮"
+          }
         }
       }
     },
@@ -852,6 +1170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tabelle"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表格"
           }
         }
       }
@@ -869,6 +1193,12 @@
             "state" : "translated",
             "value" : "Filtra tag HTML"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标签过滤"
+          }
         }
       }
     },
@@ -884,6 +1214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elenco delle attività"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任务列表"
           }
         }
       }
@@ -902,6 +1238,12 @@
             "state" : "translated",
             "value" : "File Markdown da convertire."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要转换的 Markdown 文件。"
+          }
         }
       }
     },
@@ -918,6 +1260,12 @@
             "state" : "translated",
             "value" : "File Markdown da formattare."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要格式化的 Markdown 文件。"
+          }
         }
       }
     },
@@ -929,6 +1277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L’estensione Pedice è incompatibile con l’estensione Testo barrato impostata per riconoscere una sola tilde (~)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当识别单个波浪号（~）时，下标扩展与删除线扩展不兼容。"
           }
         }
       }
@@ -952,6 +1306,12 @@
             "state" : "translated",
             "value" : "Valida UTF-8"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "校验 UTF-8"
+          }
         }
       }
     },
@@ -967,6 +1327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wikilinks"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiki 链接"
           }
         }
       }
@@ -984,6 +1350,12 @@
             "state" : "translated",
             "value" : "Intestazione YAML"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YAML 头"
+          }
         }
       }
     },
@@ -999,6 +1371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opzioni per l’Intestazione YAML"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YAML 头选项状态"
           }
         }
       }

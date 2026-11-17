@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "(%1$@)\n\nPuoi installare manualmente il tool dal Terminale con questo comando: \nln -sfv \"%2$@\" \"%3$@\""
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%1$@)\n\n你可以用下面的命令在终端中手动安装该工具：\nln -sfv \"%2$@\" \"%3$@\""
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "** Errore caricando il file *%@*! **"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "** 加载文件 *%@* 出错！**"
           }
         }
       },
@@ -53,6 +65,12 @@
             "state" : "translated",
             "value" : "%d caratteri"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d 个字符"
+          }
         }
       }
     },
@@ -71,6 +89,12 @@
             "state" : "translated",
             "value" : "Sicuro di resettare tutte le impostazioni al valori predefiniti? "
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定要将所有设置恢复为出厂默认值吗？"
+          }
         }
       }
     },
@@ -88,6 +112,12 @@
             "state" : "translated",
             "value" : "Sfoglia…"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浏览…"
+          }
         }
       }
     },
@@ -104,6 +134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annulla"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
@@ -123,6 +159,12 @@
             "state" : "translated",
             "value" : "I cambiamenti apportati al file verranno persi."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对文件所做的更改将丢失。"
+          }
         }
       }
     },
@@ -139,6 +181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chiudi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
           }
         }
       }
@@ -158,6 +206,12 @@
             "state" : "translated",
             "value" : "Strumento a riga di comando installato correttamente."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令行工具已安装"
+          }
         }
       }
     },
@@ -175,6 +229,12 @@
             "state" : "translated",
             "value" : "Errore di configurazione delle impostazioni!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置设置有误！"
+          }
         }
       }
     },
@@ -185,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configurazione valida"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置设置有效"
           }
         }
       }
@@ -197,6 +263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sviluppato da"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开发者"
           }
         }
       }
@@ -214,6 +286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Non salvare"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不保存"
           }
         }
       }
@@ -233,6 +311,12 @@
             "state" : "translated",
             "value" : "Non mostrare ancora questo avviso"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不再显示此警告"
+          }
         }
       }
     },
@@ -250,6 +334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vuoi salvare le impostazioni prima di chiudere?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭前要保存吗？"
           }
         }
       }
@@ -269,6 +359,12 @@
             "state" : "translated",
             "value" : "Scarica il tema CSS predefinito"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载默认 CSS 主题"
+          }
         }
       }
     },
@@ -286,6 +382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Incorporata (%@)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内嵌（%@）"
           }
         }
       }
@@ -305,6 +407,12 @@
             "state" : "translated",
             "value" : "Incorporata (file mancante)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内嵌（文件缺失）"
+          }
         }
       }
     },
@@ -318,6 +426,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -339,6 +453,12 @@
             "state" : "translated",
             "value" : "Emoji (font)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji（字体）"
+          }
         }
       }
     },
@@ -355,6 +475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji (immagini)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji（图片）"
           }
         }
       }
@@ -374,6 +500,12 @@
             "state" : "translated",
             "value" : "Errore di salvataggio delle impostazioni!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存设置出错！"
+          }
         }
       }
     },
@@ -390,6 +522,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "GitHub (Predefinito)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub（默认）"
           }
         }
       }
@@ -408,6 +546,12 @@
             "state" : "translated",
             "value" : "Ignora"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略"
+          }
         }
       }
     },
@@ -424,6 +568,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importa un file CSS nella cartella predefinita."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 CSS 文件导入标准主题文件夹。"
           }
         }
       }
@@ -442,6 +592,12 @@
             "state" : "translated",
             "value" : "Importa…"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入…"
+          }
         }
       }
     },
@@ -451,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Librerie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "库"
           }
         }
       }
@@ -469,6 +631,12 @@
             "state" : "translated",
             "value" : "Espressioni matematiche"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学扩展"
+          }
         }
       }
     },
@@ -486,6 +654,12 @@
             "state" : "translated",
             "value" : "Espressioni matematiche (locale)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学扩展（内嵌）"
+          }
         }
       }
     },
@@ -502,6 +676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Espressioni matematiche (web)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学扩展（外链）"
           }
         }
       }
@@ -526,6 +706,12 @@
             "state" : "translated",
             "value" : "Libreria MathJax %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MathJax 库 %@"
+          }
         }
       }
     },
@@ -542,6 +728,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diagrammi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mermaid 图表"
           }
         }
       }
@@ -560,6 +752,12 @@
             "state" : "translated",
             "value" : "Diagrammi (locale)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mermaid 图表（内嵌）"
+          }
         }
       }
     },
@@ -576,6 +774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diagrammi (web)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mermaid 图表（外链）"
           }
         }
       }
@@ -594,6 +798,12 @@
             "state" : "translated",
             "value" : "Libreria Mermaid %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mermaid 库 %@"
+          }
         }
       }
     },
@@ -610,6 +820,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "否"
           }
         }
       }
@@ -628,6 +844,12 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
+          }
         }
       }
     },
@@ -639,6 +861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apri"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开"
           }
         }
       }
@@ -658,6 +886,12 @@
             "state" : "translated",
             "value" : "Apri la cartella di supporto per i temi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开 Application Support 主题文件夹"
+          }
         }
       }
     },
@@ -670,6 +904,12 @@
             "state" : "translated",
             "value" : "Vuoi aprire questo link in un’altra applicazione?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要在另一个应用中打开此链接吗？"
+          }
         }
       }
     },
@@ -680,6 +920,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impostazioni"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偏好设置"
           }
         }
       }
@@ -699,6 +945,12 @@
             "state" : "translated",
             "value" : "Impostazioni di QLMarkdown"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QLMarkdown 偏好设置"
+          }
         }
       }
     },
@@ -716,6 +968,12 @@
             "state" : "translated",
             "value" : "Aggiorna"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新"
+          }
         }
       }
     },
@@ -732,6 +990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ricarica"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新加载"
           }
         }
       }
@@ -757,6 +1021,12 @@
             "state" : "translated",
             "value" : "Formattato in %1$.3f secondi | %2$@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "渲染耗时 %1$.3f 秒 | %2$@"
+          }
         }
       }
     },
@@ -775,6 +1045,12 @@
             "state" : "translated",
             "value" : "Rivela il file CSS nel Finder"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Finder 中显示 CSS"
+          }
         }
       }
     },
@@ -791,6 +1067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salva"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
           }
         }
       }
@@ -810,6 +1092,12 @@
             "state" : "translated",
             "value" : "Seziona un file CSS"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择自定义 CSS 样式"
+          }
         }
       }
     },
@@ -828,6 +1116,12 @@
             "state" : "translated",
             "value" : "Seleziona un file Markdown da visualizzare"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择要预览的 Markdown 文件"
+          }
         }
       }
     },
@@ -844,6 +1138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Imposta l’interruzione di riga dopo questo numero di caratteri:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在以下字符数后自动换行："
           }
         }
       }
@@ -863,6 +1163,12 @@
             "state" : "translated",
             "value" : "Testo barrato"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线"
+          }
         }
       }
     },
@@ -880,6 +1186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Testo barrato (%@)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线（%@）"
           }
         }
       }
@@ -899,6 +1211,12 @@
             "state" : "translated",
             "value" : "Passa al tema scuro."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换到深色外观。"
+          }
         }
       }
     },
@@ -916,6 +1234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passa al tema chiaro."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换到浅色外观。"
           }
         }
       }
@@ -935,6 +1259,12 @@
             "state" : "translated",
             "value" : "Lo strumento a riga di comando non è installato."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令行工具未安装。"
+          }
         }
       }
     },
@@ -952,6 +1282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il file markdown attuale è stato modificato. Sicuro di sostituirlo?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前 Markdown 文件已被修改。\n确定要替换它吗？"
           }
         }
       }
@@ -971,6 +1307,12 @@
             "state" : "translated",
             "value" : "Il file markdown è cambiato!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown 文件已更改！"
+          }
         }
       }
     },
@@ -989,6 +1331,12 @@
             "state" : "translated",
             "value" : "Il file markdown è stato cambiato da un’altra applicazione, vuoi ricaricarlo?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "源 Markdown 文件已在应用外被修改，是否重新加载？"
+          }
         }
       }
     },
@@ -1000,6 +1348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L’estensione Pedice è incompatibile con l’estensione Testo barrato impostata per riconoscere una sola tilde (~)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当识别单个波浪号（~）时，下标扩展与删除线扩展不兼容。"
           }
         }
       }
@@ -1019,6 +1373,12 @@
             "state" : "translated",
             "value" : "Lo strumento a riga di comando verrà installato in %@. Vuoi continuare?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工具将安装到 %@\n是否继续？"
+          }
         }
       }
     },
@@ -1036,6 +1396,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il servizio di aggiornamento non è partito. Per il dettaglio degli errori verifica il logo con Console.app."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新程序启动失败。详细信息请查看“控制台”App 的日志。"
           }
         }
       }
@@ -1055,6 +1421,12 @@
             "state" : "translated",
             "value" : "Ci sono alcune impostazioni modificate."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有未保存的设置修改"
+          }
         }
       }
     },
@@ -1072,6 +1444,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Questa applicazione non è intesa per essere un editor, ma l’interfaccia per personalizzare le impostazioni dell’anteprima Quick Look."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本应用不是 Markdown 编辑器，而是用于自定义快速查看预览的界面。"
           }
         }
       }
@@ -1091,6 +1469,12 @@
             "state" : "translated",
             "value" : "Impossibile esportare lo stile CSS!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法导出 CSS 样式！"
+          }
         }
       }
     },
@@ -1108,6 +1492,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile esportare l’anteprima HTML!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法导出 HTML 预览！"
           }
         }
       }
@@ -1127,6 +1517,12 @@
             "state" : "translated",
             "value" : "Impossibile esportare il codice Markdown!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法导出 Markdown 源文件！"
+          }
         }
       }
     },
@@ -1144,6 +1540,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile installare lo strumento a riga di comando!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法安装命令行工具"
           }
         }
       }
@@ -1163,6 +1565,12 @@
             "state" : "translated",
             "value" : "Impossibile installare lo strumento a riga di comando: %@ non è accessibile in scrittura"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法安装工具：%@ 不可写"
+          }
         }
       }
     },
@@ -1179,6 +1587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore di aggiornamento"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新程序错误"
           }
         }
       }
@@ -1197,6 +1611,12 @@
             "state" : "translated",
             "value" : "Usa un file CSS senza importarlo nella cartella predefinita dei temi."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用自定义 CSS 文件，而不导入标准主题文件夹。"
+          }
         }
       }
     },
@@ -1207,6 +1627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versione %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %@"
           }
         }
       }
@@ -1225,6 +1651,12 @@
             "state" : "translated",
             "value" : "Intestazioni YAML"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YAML 头"
+          }
         }
       }
     },
@@ -1241,6 +1673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intestazioni YAML (file .rmd e .qmd)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YAML 头（.rmd、.qmd 文件）"
           }
         }
       }
@@ -1259,6 +1697,12 @@
             "state" : "translated",
             "value" : "Intestazioni YAML (tutti i file)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YAML 头（所有文件）"
+          }
         }
       }
     },
@@ -1275,6 +1719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sì"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是"
           }
         }
       }
@@ -1293,6 +1743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puoi eseguirlo da questo percorso: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你可以通过此路径调用它：%@"
           }
         }
       }
@@ -1317,6 +1773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puoi eseguire lo strumento da questo percorso: %1$@\n\nPuoi installarlo manualmente dal Terminale con questo comando: ln -sfv “%2$@” “%3$@\""
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你可以直接从该路径调用工具：\n%1$@）\n\n也可以用下面的命令在终端中手动安装：\nln -sfv \"%2$@\" \"%3$@\""
           }
         }
       }

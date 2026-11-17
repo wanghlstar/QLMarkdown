@@ -778,7 +778,7 @@ class ViewController: NSViewController {
         panel.canCreateDirectories = false
         panel.allowsMultipleSelection = false
         if #available(macOS 27, *) {
-            panel.allowedContentTypes = [.markdown]
+            panel.allowedContentTypes = [UTType(importedAs: "net.daringfireball.markdown")]
         } else {
             panel.allowedContentTypes = [UTType(filenameExtension: "md") ?? .data]
         }
@@ -799,7 +799,7 @@ class ViewController: NSViewController {
         savePanel.showsTagField = false
         var types: [UTType] = []
         if #available(macOS 27, *) {
-            types.append(.markdown)
+            types.append(UTType(importedAs: "net.daringfireball.markdown"))
         } else {
             types.append(UTType(filenameExtension: "md") ?? .data)
         }

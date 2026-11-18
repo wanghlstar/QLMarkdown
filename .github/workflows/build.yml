@@ -39,8 +39,13 @@ jobs:
             "$APP"
           codesign --verify --deep --strict "$APP"
 
+      - name: Package
+        run: |
+          ditto -c -k --sequesterRsrc --keepParent \
+            "build/Build/Products/Release/QLMarkdown.app" QLMarkdown-zh-Hans.zip
+
       - uses: actions/upload-artifact@v4
         with:
           name: QLMarkdown-zh-Hans
-          path: build/Build/Products/Release/QLMarkdown.app
+          path: QLMarkdown-zh-Hans.zip
           if-no-files-found: error
